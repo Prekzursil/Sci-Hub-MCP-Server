@@ -1,6 +1,4 @@
 from scihub import SciHub
-import re
-import os
 import urllib3
 import requests
 
